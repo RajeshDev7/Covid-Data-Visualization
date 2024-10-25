@@ -3,8 +3,8 @@ Analysis of Covid Infection Cases, Deaths and Vaccination during 2020-2023 Data 
 
 There are a few questions I tried to answer from this analysis
 
-1. How infection is Coronavirus?
-2. Which countries are impacted heavily because of Covid?
+1. How infectious is Coronavirus?
+2. Which countries were impacted heavily because of Covid?
 3. Are there differences in the death rate of Covid in different countries?
 4. How efficient is the vaccination campaign in different countries?
-5. Death rate of corona virus compared to other historical pandemics.
+5. Death rate of corona virus compared with other historical pandemics.
